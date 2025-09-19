@@ -1,0 +1,39 @@
+# Distribution / packaging
+pysus/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+build/
+dist/
+*.egg-info/
+.env
+venv/
+env/
+.ipynb_checkpoints
+.pytest_cache
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Output files from the project itself
+data_test/
+output/
+
+# test scripts
+r.py
